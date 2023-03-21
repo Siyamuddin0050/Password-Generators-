@@ -1,1 +1,2 @@
-# Password-Generators-
+# Password-Generators-https://siyamuddin0050.github.io/Password-Generators-/
+/*The Password Generator is a simple tool for generating strong passwords. It uses a combination of uppercase and lowercase letters, numbers, and special characters to create secure passwords. To use the tool, simply choose the length of the password and click the "Generate" button. The password will be displayed on the screen and can be copied and pasted into any application. Remember to always keep your passwords safe and secure by using a reputable password manager.*/
